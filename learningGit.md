@@ -91,4 +91,4 @@ One common misconception about distributed version control systems is that there
 * Revision
 * URL
 
-
+![Image of workflow_git](https://github.com/mehtadevloper/e-learning/blob/main/workflow_git.PNG)
