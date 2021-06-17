@@ -20,6 +20,8 @@ There are many version control systems out there. Often they are divided into tw
 1. Centralized 
 2. Distributed 
 
+![version control image](https://github.com/mehtadevloper/e-learning/blob/main/version_control.PNG)
+
 ### Centralized version control
 Centralized version control systems are based on the idea that there is a single “central” copy of your project somewhere (probably on a server), and programmers will “commit” their changes to this central copy.
 
