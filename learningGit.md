@@ -78,6 +78,7 @@ One common misconception about distributed version control systems is that there
 
 > Step 3 − You perform commit operation that moves the files from the staging area. After push operation, it stores the changes permanently to the Git repository.
 
+![branch](https://github.com/mehtadevloper/e-learning/blob/main/branch_workflow.PNG)
 
 ## Basic terms Used in GIT
 
